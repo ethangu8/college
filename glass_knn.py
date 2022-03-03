@@ -1,4 +1,3 @@
-# Homework 5: Machine Learning
 # Ethan Gu
 
 import pandas as pd
