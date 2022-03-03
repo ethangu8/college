@@ -1,4 +1,3 @@
-# Homework 2: The Challenger Accident
 # Ethan Gu
 
 import pandas as pd
